@@ -14,6 +14,5 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/despinosa0606/despinosa0606)
 
 ### :zap: Actividad Reciente
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
