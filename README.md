@@ -12,3 +12,8 @@
 ## Vias de contacto
 ![WebSite](https://www.linkedin.com/in/daniel-espinosa-57a539104/)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/despinosa0606/despinosa0606)
+
+### :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
